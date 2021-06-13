@@ -27,6 +27,7 @@ if __name__ == '__main__' :
             tracker = cv2.TrackerMOSSE_create()
         if tracker_type == "CSRT":
             tracker = cv2.TrackerCSRT_create()
+
     video = cv2.VideoCapture(0)
     if not video.isOpened():
         print("Could not open video")

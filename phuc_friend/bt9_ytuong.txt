@@ -1,0 +1,4 @@
+có thể tạo ra tập hợp từ là các từ tiêu cực
+đếm số từ tiêu cực trong bài viết lấy được
+nếu số từ tiêu cực nhiều hơn ngưỡng nào đó thì bài viết đó là tiêu cực
+hoặc có thể dùng machine learning
